@@ -1,0 +1,36 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+/* 
+EDF1D6 
+9DC08B
+609966
+*/
+
+
+
+.body{
+    background-color: #9DC08B;
+}
+
+#icon{
+    display: grid;
+    place-items: center;
+    font-size: 20px;
+}
+
+#brand{
+    color: #313d2d;
+}
+#home{
+    color: #313d2d;
+}
+#link{
+    color: #313d2d;
+}
+#navbarScroll{
+    color: #313d2d;
+}
+#btn{
+    background-color:#313d2d;
+    border: none;
+}
